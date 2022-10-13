@@ -29,7 +29,7 @@ int main() {
 	// while
 	cout<<"contoh perulangan while :"<<endl;
 	while(b <= 10) {
-		cout<<a<<endl;
+		cout<<b<<endl;
 		b++;
 	}
 
